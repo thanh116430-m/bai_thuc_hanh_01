@@ -1,0 +1,6 @@
+N=28 return 1
+
+N=20 return 0
+
+N=-9 return 0
+N=6 return 1
